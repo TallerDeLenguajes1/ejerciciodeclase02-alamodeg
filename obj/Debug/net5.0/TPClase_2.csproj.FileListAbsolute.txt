@@ -1,0 +1,16 @@
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TPClase_2\bin\Debug\net5.0\TPClase_2.exe
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TPClase_2\bin\Debug\net5.0\TPClase_2.deps.json
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TPClase_2\bin\Debug\net5.0\TPClase_2.runtimeconfig.json
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TPClase_2\bin\Debug\net5.0\TPClase_2.runtimeconfig.dev.json
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TPClase_2\bin\Debug\net5.0\TPClase_2.dll
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TPClase_2\bin\Debug\net5.0\ref\TPClase_2.dll
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TPClase_2\bin\Debug\net5.0\TPClase_2.pdb
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TPClase_2\obj\Debug\net5.0\TPClase_2.csproj.AssemblyReference.cache
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TPClase_2\obj\Debug\net5.0\TPClase_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TPClase_2\obj\Debug\net5.0\TPClase_2.AssemblyInfoInputs.cache
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TPClase_2\obj\Debug\net5.0\TPClase_2.AssemblyInfo.cs
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TPClase_2\obj\Debug\net5.0\TPClase_2.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TPClase_2\obj\Debug\net5.0\TPClase_2.dll
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TPClase_2\obj\Debug\net5.0\ref\TPClase_2.dll
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TPClase_2\obj\Debug\net5.0\TPClase_2.pdb
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TPClase_2\obj\Debug\net5.0\TPClase_2.genruntimeconfig.cache
