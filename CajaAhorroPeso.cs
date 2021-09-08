@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TPClase_2
 {
-    class CajaAhorroPeso:IOperacion
+    class CajaAhorroPeso
     {
         float capital;
 
