@@ -19,6 +19,7 @@ namespace TPClase_2
 
         public string Insercion(int monto)
         {
+            this.capital = monto;
             return ($"Se ha insertado {monto}$ a la cuenta");
         }
 
